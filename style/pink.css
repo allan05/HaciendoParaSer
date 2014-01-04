@@ -1,0 +1,26 @@
+/* Pink Color */
+
+a,a:visited{
+color:#e60051;
+}
+
+a:hover{
+color:#c40347;
+}
+
+.tops{
+background:#e60051;
+}
+
+.subscribe{
+background:#5a0020;
+}
+
+.cols h3{
+color:#e60051;
+}
+
+.cols .widget ul li
+{
+background-image: url('../img/list-p.png');
+}

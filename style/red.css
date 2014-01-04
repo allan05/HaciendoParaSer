@@ -1,0 +1,26 @@
+/* Red Color */
+
+a,a:visited{
+color:#e60000;
+}
+
+a:hover{
+color:#e40000;
+}
+
+.tops{
+background:#e60000;
+}
+
+.subscribe{
+background:#ba0000;
+}
+
+.cols h3{
+color:#e60000;
+}
+
+.cols .widget ul li
+{
+background-image: url('../img/list-r.png');
+}

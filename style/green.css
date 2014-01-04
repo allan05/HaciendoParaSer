@@ -1,0 +1,26 @@
+/* Green Color */
+
+a,a:visited{
+color:#00d905;
+}
+
+a:hover{
+color:#00d905;
+}
+
+.tops{
+background:#00d905;
+}
+
+.subscribe{
+background:#00aa04;
+}
+
+.cols h3{
+color:#00d905;
+}
+
+.cols .widget ul li
+{
+background-image: url('../img/list-g.png');
+}
